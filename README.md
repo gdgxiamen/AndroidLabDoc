@@ -1,7 +1,7 @@
 # AndroidLabDoc
 Android Lab Setting Recommendation Document, which is used for public sharing and reference. We hope this document will help those who intend to set up Mobile Technology Lab. The following document is the README, which is in Chinese.
 
-关于\n
+关于
 移动应用实验室建设建议文本：本文本由若干高校教师参与共享完成，旨在汇总目前各校移动应用技术相关实验室建设实践和经验，开源共享，为学校新建实验室或者更新现有实验室提供参考。
 
 贡献者（按姓名拼音字母顺序）
